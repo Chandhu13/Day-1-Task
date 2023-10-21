@@ -1,0 +1,17 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2.
+
+HTTP1.1:- 
+It was founded on 1997.
+first version of http was called HTTP1.1.
+HTTP1.1 has text format.
+It compresses the data by itself.
+It uses request resources to get multiple pages.
+It block the requests until we get all resources
+
+HTTP2:-
+It was founded on 2015.
+HTTP2 was very faster than HTTP1.1.
+HTTP2 works on binary protocol.
+HTTP uses HPACK for data compression.
+It uses push frame to get multiple pages.
+HTTP2 has TCP Connection,so One tcp is enough for multiple requests.

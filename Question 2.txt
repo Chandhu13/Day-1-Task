@@ -1,0 +1,15 @@
+objects and its internal representation in Javascript.
+
+Objects:-
+1.It is a combination of primitive data types.
+2.Objects are case sensitive.
+3.Unassigned value of an object are undefined.
+4.Objects are the collection of Key values.
+5.Objects are variables,But objects can contain many values.
+
+internal representation:
+1.It is called as object structure or object layout.
+2.It has object properties like names,values,types.
+3.JavaScript engines used classes to optimize the property access.
+4.Internal representation of objects that are written on double square brackets.
+5.Internal property points to the prototype of an object.
